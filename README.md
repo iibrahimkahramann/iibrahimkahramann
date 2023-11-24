@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python(Django)
 - 📫 How to reach me iibrahimkahramnn@gmail.com
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iibrahimkahramann)
+- (http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={iibrahimkahramann}&theme={theme_name})
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iibrahimkahramann&layout=donut)
 -
 <!---
