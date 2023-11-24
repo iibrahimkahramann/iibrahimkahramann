@@ -2,9 +2,6 @@
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning Python(Django)
 - 📫 How to reach me iibrahimkahramnn@gmail.com
-
-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=iibrahimkahramann)](https://github.com/iibrahimkahramann/github-contribution-stats/)
-
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iibrahimkahramann&theme=dark&show_icons=true)
 
 <!---
