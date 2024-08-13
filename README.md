@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iibrahimkahramann
-- 👀 I’m interested in Mobil
+- 👀 I’m interested in Mobile
 - 🌱 I’m currently learning Python(Django) and Dart(Flutter)
 - 📫 How to reach me iibrahimkahramnn@gmail.com
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iibrahimkahramann)
